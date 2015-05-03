@@ -18,6 +18,7 @@
 *.elf
 *.swp
 *.bin
+!reg_info_hi351??.bin
 *.patch
 *.cfgtmp
 *.dts.tmp
